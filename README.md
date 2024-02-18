@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Tarun</h1>
-<h3 align="center">I'm currently a 4th year Electrical Engineering student at Delhi Technological University. I'm a C++ Programmer and Front-end Web Developer having good knowledge of HTML, CSS, JavaScript, and React JS. I have been doing competitive programming on Leetcode, GFG and CodeChef. At free time, I usually watch sci-fi movies, anime and listen to music.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarun19991121&label=Profile%20views&color=0e75b6&style=flat" alt="tarun19991121" /> </p>
 
